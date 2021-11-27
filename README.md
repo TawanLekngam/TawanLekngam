@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
 
-<!--
-**TawanLekngam/TawanLekngam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sun. I'm a software engineering student at [KMITL](https://www.kmitl.ac.th/).
 
-Here are some ideas to get you started:
+## Game Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Project|Description|Language|
+|---|---|---|
+|[FlappyBird](https://github.com/TawanLekngam/FlappyBird)|A Flappy Bird clone created with [Pygame](https://www.pygame.org/news).|[Python](https://www.python.org/)|
+|[PySnake](https://github.com/TawanLekngam/PySnake)|A simple snake game made by [Pygame](https://www.pygame.org/news).|[Python](https://www.python.org/)|
+
+
+## Contacts 📭
+Email : None
+
