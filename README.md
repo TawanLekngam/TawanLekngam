@@ -5,7 +5,7 @@ Hi, I'm Sun. I'm a software engineering student at [KMITL](https://www.kmitl.ac.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawanLekngam&show_icons=true&theme=dark)-->
 
-## 🕹Game Project
+## 🎲Game Project
 |Project|Description|Language|
 |---|---|---|
 |[FlappyBird](https://github.com/TawanLekngam/FlappyBird)|A Flappy Bird clone created with [Pygame](https://www.pygame.org/news).|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python](https://www.python.org/)|
