@@ -2,8 +2,7 @@
 
 Hi, I'm Sun. I'm a software engineering student at [KMITL](https://www.kmitl.ac.th/).
 
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawanLekngam&show_icons=true&theme=dark)-->
+![github-banner](https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/Tawan_HuaHin.jpg?raw=true)
 
 ## 🎲Game Projects
 |Project|Description|Language|
