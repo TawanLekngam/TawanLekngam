@@ -1,6 +1,5 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
 
-Hi, I'm Sun. I'm a software engineering student at [KMITL](https://www.kmitl.ac.th/).
 
 ![github-banner](https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/Tawan_HuaHin.jpg?raw=true)
 
