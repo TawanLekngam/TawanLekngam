@@ -14,6 +14,7 @@
 |Project|Description|Language|
 |---|---|---|
 |[Gin Arai Dee](https://github.com/deeckn/GIN-ARAI-DEE)|An android application that focuses on assisting and solving food related issues such as finding What to eat?, When to eat?, and other food related problems.|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> Java](https://dev.java/)|
+|[Perd Raan](https://github.com/TawanLekngam/SEP_Project)|a food and beverage service management system that supports service workers such as managers and employees. The purpose of this software is to provide a proper system and improve work efficiency to keep track of orders, stock, as well as a business financial report.|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python](https://www.python.org/)|
 
 
 ## 📭Contacts
