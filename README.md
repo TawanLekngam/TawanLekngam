@@ -6,7 +6,9 @@
 
 ## About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
 
-I'm Tawan, you can call me Sun. I'm the sophomore year of softeware engineering at KMITL, Bankkok Thailand.
+I'm Tawan, the sophomore year of softeware engineering at KMITL, Bankkok Thailand.
+
+
 
 
 ## 🎲Game Projects
