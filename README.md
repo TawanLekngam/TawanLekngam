@@ -1,7 +1,9 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
-
-
 ![github-banner](https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/Tawan_NameArt.png?raw=true)
+
+## About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
+
+<dir>I'm Tawan, you can call me Sun. I'm the sophomore year of softeware engineering at KMITL, Bankkok Thailand.</dir>
+
 
 ## 🎲Game Projects
 |Project|Description|Language|
@@ -18,4 +20,5 @@
 
 
 ## 📭Contacts
-Email : None
++ Email: s.tawanlek@gmail.com
++ Linkin: [Tawan Lekngam](https://www.linkedin.com/in/tawan-lekngam-5341ab233/)
