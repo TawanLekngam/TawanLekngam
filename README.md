@@ -1,20 +1,15 @@
 ![github-banner](https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/Tawan_NameArt.png?raw=true)
 
-
-
-
-
 ## About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
 
-I'm Tawan, the sophomore year of softeware engineering at KMITL, Bankkok Thailand.
+I'm Tawan, The sophomore year of softeware engineering at ``KMITL``, Bankkok Thailand.
 
-
-
+I interested in the development of software with object-oriented programming, algorithm, and design pattern to meet the needs of users.
 
 ## 🎲Game Projects
 |Project|Description|Language|
 |---|---|---|
-|[FlapPyBird](https://github.com/TawanLekngam/FlappyBird)|A python game that reference from FlappyBird game was created by using [``Pygame``](https://www.pygame.org/news) library|[<center><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" title="Python" />](https://www.python.org/)|
+|[FlapPyBird](https://github.com/TawanLekngam/FlappyBird)|A python game that reference from FlappyBird game was created by using [Pygame](https://www.pygame.org/news) library|[<center><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" title="Python" />](https://www.python.org/)|
 |[PySnake](https://github.com/TawanLekngam/PySnake)|A simple snake game made by [Pygame](https://www.pygame.org/news).|<center>[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" title="Python"/>](https://www.python.org/)|
 
 
@@ -38,7 +33,6 @@ I'm Tawan, the sophomore year of softeware engineering at KMITL, Bankkok Thailan
     <img src="https://img.icons8.com/color/50/000000/android-studio--v2.png" title="Android Studio"/>
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" title="MySQL"/>
 </p>
-
 
 ## 📭Contacts
 + Gmail : s.tawanlek@gmail.com
