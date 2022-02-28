@@ -2,7 +2,7 @@
 
 ## About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
 
-I'm Tawan, The sophomore year of softeware engineering at ``KMITL``, Bankkok Thailand.
+I'm Tawan, The sophomore year of software engineering at ``KMITL``, Bangkok Thailand.
 
 I'm interested in the development of software with object-oriented programming, algorithm, and design pattern to meet the needs of users.
 
