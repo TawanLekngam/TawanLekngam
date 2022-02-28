@@ -4,7 +4,9 @@
 
 I'm Tawan, The sophomore year of softeware engineering at ``KMITL``, Bankkok Thailand.
 
-I interested in the development of software with object-oriented programming, algorithm, and design pattern to meet the needs of users.
+I'm interested in the development of software with object-oriented programming, algorithm, and design pattern to meet the needs of users.
+
+I often do small projects to review, manage and develop new technical skills and knowledge. You can check out these projects.
 
 ## 🎲Game Projects
 |Project|Description|Language|
