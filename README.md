@@ -19,6 +19,7 @@ I often do small projects to review, manage and develop new technical skills and
 |[FlapPyBird](https://github.com/TawanLekngam/FlappyBird)|A python game that reference from FlappyBird game was created by using [Pygame](https://www.pygame.org/news) library.|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" title="Python" />](https://www.python.org/)|
 |[PySnake](https://github.com/TawanLekngam/PySnake)|A simple snake game made by [Pygame](https://www.pygame.org/news).|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" title="Python"/>](https://www.python.org/)|
 
+<!--
 ## 🛠️ Languages and Tools:
 
 <p align="left"> 
@@ -33,7 +34,7 @@ I often do small projects to review, manage and develop new technical skills and
     <img src="https://img.icons8.com/color/50/000000/android-studio--v2.png" title="Android Studio"/>
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" title="MySQL"/>
 </p>
-
+-->
 ## 📭Contacts
 + Gmail : s.tawanlek@gmail.com
 + Linkin : [Tawan Lekngam](https://www.linkedin.com/in/tawan-lekngam-5341ab233/)
