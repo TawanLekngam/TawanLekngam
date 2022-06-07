@@ -1,6 +1,6 @@
 ![github-banner](https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/Tawan_NameArt.png?raw=true)
 
-## About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
+## About me
 
 I'm Tawan, The sophomore year of software engineering at ``KMITL``, Bangkok Thailand.
 
