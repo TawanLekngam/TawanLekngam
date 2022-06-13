@@ -38,10 +38,3 @@ I often do small projects to review, manage and develop new technical skills and
 ## 📭Contacts
 + Gmail : s.tawanlek@gmail.com
 + Linkin : [Tawan Lekngam](https://www.linkedin.com/in/tawan-lekngam-5341ab233/)
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  <img align="left" alt="S.GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tawanlekngam&show_icons=true&theme=dark&hide_border=true" />
-
-</details>
