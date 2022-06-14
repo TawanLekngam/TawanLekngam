@@ -1,3 +1,4 @@
+<img src="https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/banner.gif" alt="banner">
 ## About me
 
 I'm Tawan, The sophomore year of software engineering at ``KMITL``, Bangkok Thailand.
