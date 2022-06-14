@@ -1,5 +1,6 @@
-<img src="https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/banner.gif" alt="banner">
-## About me
+<img src="https://github.com/TawanLekngam/TawanLekngam/blob/main/Assets/banner.gif" alt="banner"/>
+
+# About me
 
 I'm Tawan, The sophomore year of software engineering at ``KMITL``, Bangkok Thailand.
 
@@ -23,6 +24,6 @@ I'm interested in the development of software with object-oriented programming, 
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" title="MySQL"/>
 </p>
 -->
-## 📭Contacts
+# 📭Contacts
 + Gmail : s.tawanlek@gmail.com
 + Linkin : [Tawan Lekngam](https://www.linkedin.com/in/tawan-lekngam-5341ab233/)
