@@ -2,7 +2,7 @@
 
 
 # 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,nodejs,figma)](https://skillicons.dev)
 
 # 📭Contacts
 + Gmail : s.tawanlek@gmail.com
