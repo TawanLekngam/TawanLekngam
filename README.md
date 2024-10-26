@@ -10,4 +10,4 @@ Hi there! I'm Sun, I am interested in backend development.
 
 
 ### 🛠️ Languages and Tools:
-[![Skills](https://skillicons.dev/icons?i=java,nodejs,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,typescript,react,nest,git,postman,docker)](https://skillicons.dev)
