@@ -5,7 +5,7 @@ Hi there! I'm Sun, I am interested in backend development.
 
 | Title | Company | Duration |
 |---|---|---|
-| Backend Developer | Hengtech Company Limited | Jul 2024 - Present |
+| Backend Developer | Hengtech Company Limited | Jul 2024 - April 2025 |
 | Backend Developer (Intern) | Rabbit Cash Company Limited | Jun 2022 - Jul 2022 |
 
 
